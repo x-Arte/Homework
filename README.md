@@ -1,5 +1,5 @@
 # Homework
-@author x-Arte / MengyiZhou
+@author x-Arte / MengyiZhou \\
 Some homework in BNU. 
 ## A Simple Schedule 
 -- just like its name. It can remind you to do something that you add in the past while it is running.
