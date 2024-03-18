@@ -1,4 +1,4 @@
-*author @x-Arte Mengyi Zhou 07/01/2020*
+*author @x-Arte Mengyi Zhou 27/06/2020*
 # 一．	功能描述
 ## Part1 新建
 在程序开始时自动创建表格，可一次性输入多个学科及其名称，和多个学生成绩。
