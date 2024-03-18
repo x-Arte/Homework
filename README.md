@@ -6,9 +6,9 @@ Some homework in BNU.
 icon : huang. A character in Arknights who is my favourite one XD.
 
 ## year1 Foundations of Program Design
--- Homework for year1 Foundations of Program Design
-May help someone to code **their own work**
-My final grade: 97 (99 for this work)
+-- Homework for year1 Foundations of Program Design \\
+May help someone to code **their own work** \\
+My final grade: 97 (99 for this work) \\
 just practice... 
 
 ## others
